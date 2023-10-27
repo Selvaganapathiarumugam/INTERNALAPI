@@ -1,0 +1,22 @@
+{
+  "name": "internalbo",
+  "version": "1.0.0",
+  "description": "this is srmvcas internal webapi",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "npm start"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "mysql"
+  ],
+  "author": "selvaganapathi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
